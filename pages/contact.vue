@@ -10,7 +10,7 @@
 					  </div>
 					  <div class='col-md-4'>
 						  <div class='cinner'>
-							  <h1>聯絡我們</h1>
+							  <h1>聯絡我們2</h1>
 							  <hr>
 							  <p>銅鑼灣謝斐道535號Tower 535 20樓<br>
 	電話: (852) 6761-3714</p>
